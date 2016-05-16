@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Core.UserManager&apos; to &apos;Security.UserAccountManager&apos;" description="Rename resource &apos;Core.UserManager&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Core.UserManager" name="Security.UserAccountManager" stamp="1463234479908" updateReferences="true"/>
+</session>

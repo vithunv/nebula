@@ -1,0 +1,5 @@
+package com.varnam.nebula.usermanager.entity;
+
+public class UserEntity {
+
+}

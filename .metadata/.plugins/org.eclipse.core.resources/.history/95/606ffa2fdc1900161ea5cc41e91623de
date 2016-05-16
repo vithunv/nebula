@@ -1,0 +1,5 @@
+package com.varnam.nebula.accounting.accountingmanager.entity;
+
+public class AccountEntity {
+
+}

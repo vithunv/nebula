@@ -1,0 +1,9 @@
+package com.varnam.nebula.usermanager.entity;
+
+@javax.persistence.Entity
+public class UserEntity {
+	private long userId;
+	private String loginId;
+	private String usernName;
+	private String passwordMD5;
+}
