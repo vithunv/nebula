@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Nebula">
+        <wb-resource deploy-path="/" source-path="/EarContent" tag="defaultRootSource"/>
+        <dependent-module archiveName="Security.UserAccountManager.jar" deploy-path="/" handle="module:/resource/Security.UserAccountManager/Security.UserAccountManager">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="Accounting.AccouingManager.jar" deploy-path="/" handle="module:/resource/Accounting.AccouingManager/Accounting.AccouingManager">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="Web.MainUI.war" deploy-path="/" handle="module:/resource/Web.MainUI/Web.MainUI">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>
